@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{0:function(n,o){console.log("what the fuck!!!!")},5:function(n,o){}}]);

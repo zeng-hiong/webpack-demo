@@ -1,0 +1,10 @@
+.account{
+	color:yellow;
+	font-size:20px;
+	border-radius: 20px;
+	margin-bottom: 10px;
+	background:url(../img/banner2.75ba9a15d3cbd2fb48df2c680f06f488.jpg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+}

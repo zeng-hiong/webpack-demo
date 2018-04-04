@@ -1,0 +1,5 @@
+.card{
+	font-weight: 700;
+	perspective: 1000;
+	transform-style: preserve-3d;
+}

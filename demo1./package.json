@@ -1,0 +1,31 @@
+{
+  "name": "demo1",
+  "version": "1.0.0",
+  "description": "this is a demo of webpack",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "webpack-dev-server --open"
+  },
+  "author": "zeng",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-loader": "^7.1.4",
+    "css-loader": "^0.28.10",
+    "extract-text-webpack-plugin": "^4.0.0-beta.0",
+    "file-loader": "^1.1.11",
+    "gulp": "^3.9.1",
+    "gulp-webpack": "^1.5.0",
+    "html-loader": "^0.5.5",
+    "html-webpack-plugin": "^3.0.6",
+    "html-withimg-loader": "^0.1.16",
+    "jsx-loader": "^0.13.2",
+    "less": "^3.0.1",
+    "less-loader": "^4.1.0",
+    "style-loader": "^0.20.3",
+    "url-loader": "^1.0.1",
+    "webpack": "^4.1.1",
+    "webpack-cli": "^2.0.12",
+    "webpack-dev-server": "^3.1.1"
+  }
+}
